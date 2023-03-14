@@ -1,0 +1,6 @@
+@inproceedings{REPO-153,
+    author = "Park, Taesung and Liu, Ming-Yu and Wang, Ting-Chun and Zhu, Jun-Yan",
+    booktitle = "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+    title = "{Semantic Image Synthesis with Spatially-adaptive Normalization}",
+    year = "2019"
+}
